@@ -42,8 +42,8 @@ pre = "fab fa-linkedin-in"
 url = "https://www.linkedin.com/in/mikell-warms-a6b29238/"
 [[menu.link]]
 identifier = "email"
-name = "email@example.com"
-url = "mailto:email@example.com"
+name = "Mikell.Warms@colorado.edu"
+url = "mailto:Mikell.Warms@colorado.edu"
 [[menu.link]]
 identifier = "resume"
 name = "resume"
