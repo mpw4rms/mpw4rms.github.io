@@ -24,7 +24,7 @@ url = ""
 identifier = "googlescholar"
 name = "Google Scholar"
 pre = "fas fa-graduation-cap"
-url = ""
+url = "https://scholar.google.com/citations?hl=en&user=iLFWap0AAAAJ"
 [[menu.bot]]
 identifier = "github"
 name = "Github"
