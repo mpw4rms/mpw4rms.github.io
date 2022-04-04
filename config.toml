@@ -21,11 +21,6 @@ name = "Github"
 pre = "fab fa-github"
 url = "https://github.com/mpw4rms/"
 [[menu.bot]]
-identifier = "gitlab"
-name = "Gitlab"
-pre = "fab fa-gitlab"
-url = "https://github.com/mpw4rms/"
-[[menu.bot]]
 identifier = "linkedin"
 name = "LinkedIn"
 pre = "fab fa-linkedin-in"
