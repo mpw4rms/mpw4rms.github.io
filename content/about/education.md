@@ -1,6 +1,6 @@
 ---
 title: Education
-date: 
+
 photos:
   Image1: "/images/Untitled.png"
 degrees:
