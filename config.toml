@@ -61,7 +61,7 @@ identifier = "projects"
 name = "Projects"
 url = "/projects/"
 [params]
-backgroundPath = "images/SA_back.jpg"
+backgroundPath = "images/20160723_150849.jpg"
 css = ["css/sourgough.css"]
 dimensionCitations = true
 footerOffset = -60
