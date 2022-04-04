@@ -1,8 +1,11 @@
 ---
 title: Publications
-description: "A description"
-
+description: A description
 researchAreas:
-    some research area: /publications/
+  some research area: "/publications/"
+menu:
+  main:
+    identifier: publications
+    weight: 2
 
 ---
