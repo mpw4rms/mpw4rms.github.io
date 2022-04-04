@@ -1,5 +1,4 @@
 +++
-PMID = ""
 authors = ["Ami Cobb", "Mikell Warms", "Steven Chiesa", "Edwin P. Maurer"]
 date = 2012-06-03T06:00:00Z
 doi = ""
