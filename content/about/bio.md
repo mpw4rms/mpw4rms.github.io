@@ -3,7 +3,7 @@ title: "About"
 date: 2021
 draft: false
 
-headshot: /images/SA_back.png
+headshot: /images/IMG_1078_2.jpg
 ---
 
 This theme is targeted at PhD or post doc researchers. It allows for
