@@ -6,7 +6,6 @@ draft: false
 photos:
     Image1: /images/SCU.jpg
     Image2: /images/CSU.jpg
-    Image3: /images/CU.jpg
 
 degrees:
     University of Colorado Boulder:
