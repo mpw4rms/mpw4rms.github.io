@@ -4,9 +4,9 @@ date: 2020
 draft: false
 
 photos:
-    Image1: /images/Untitled.png
-    Image2: /images/Untitled.png
-
+    Image1: /images/SCU.png
+    Image2: /images/CSU.png
+    Image3: /images/CU.png
 
 degrees:
     University of Colorado Boulder
