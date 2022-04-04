@@ -6,60 +6,53 @@ title = "Mikell Warms"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.about]]
-identifier = "ordcidid"
-name = "OrcidID"
-pre = "fab fa-orcid"
-url = ""
-[[menu.about]]
 identifier = "researchgate"
 name = "ResearchGate"
 pre = "fab fa-researchgate"
-url = ""
-[[menu.about]]
-identifier = "medium"
-name = "Medium"
-pre = "fab fa-medium-m"
-url = ""
+url = "https://www.researchgate.net/profile/Mikell-Warms"
+weight = 2
 [[menu.about]]
 identifier = "googlescholar"
 name = "Google Scholar"
 pre = "fas fa-graduation-cap"
 url = "https://scholar.google.com/citations?hl=en&user=iLFWap0AAAAJ"
-[[menu.bot]]
-identifier = "github"
-name = "Github"
-pre = "fab fa-github"
-url = "https://github.com/mpw4rms/"
-[[menu.bot]]
-identifier = "gitlab"
-name = "Gitlab"
-pre = "fab fa-gitlab"
-url = "https://github.com/mpw4rms/"
+weight = 1
 [[menu.bot]]
 identifier = "linkedin"
 name = "LinkedIn"
 pre = "fab fa-linkedin-in"
 url = "https://www.linkedin.com/in/mikell-warms-a6b29238/"
+weight = 1
+[[menu.bot]]
+identifier = "github"
+name = "Github"
+pre = "fab fa-github"
+url = "https://github.com/mpw4rms/"
+weight = 2
 [[menu.link]]
 identifier = "email"
 name = "Mikell.Warms@colorado.edu"
 url = "mailto:Mikell.Warms@colorado.edu"
+weight = 1
 [[menu.link]]
 identifier = "resume"
 name = "resume"
-url = ""
-[[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-[[menu.main]]
-identifier = "publications"
-name = "Publications"
-url = "/publications/"
+weight = 2
 [[menu.main]]
 identifier = "projects"
 name = "Projects"
 url = "/projects/"
+weight = 1
+[[menu.main]]
+identifier = "publications"
+name = "Publications"
+url = "/publications/"
+weight = 2
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 3
 [params]
 backgroundPath = "images/20160723_150849.jpg"
 css = ["css/sourgough.css"]
