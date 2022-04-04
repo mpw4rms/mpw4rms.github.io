@@ -11,15 +11,10 @@ name = "ResearchGate"
 pre = "fab fa-researchgate"
 url = "https://www.researchgate.net/profile/Mikell-Warms"
 [[menu.about]]
-identifier = "medium"
-name = "Medium"
-pre = "fab fa-medium-m"
-url = ""
-[[menu.about]]
 identifier = "googlescholar"
 name = "Google Scholar"
 pre = "fas fa-graduation-cap"
-url = "https://scholar.google.com/citations?hl=en&user=iLFWap0AAAAJ"
+url = "https://scholar.google.com/citations?user=iLFWap0AAAAJ&hl=en"
 [[menu.bot]]
 identifier = "github"
 name = "Github"
