@@ -1,13 +1,7 @@
 ---
-title: "About"
-date: 2021
-draft: false
+title: About
+date: 2021-01-01T00:00:00-07:00
+headshot: "/images/IMG_1078_2.jpg"
 
-headshot: /images/IMG_1078_2.jpg
 ---
-
-This theme is targeted at PhD or post doc researchers. It allows for
-an easy way to display projects as well as publications. Through
-the use of dimensions metrics each publication with a DOI will
-automatically display citation statistics. This can be turned off in
-the config.toml.
+Mikell Warms is a second-year doctoral student in the University of Colorado Department of Atmospheric and Oceanic Sciences ([ATOC](https://www.colorado.edu/atoc/)). Mikell received his B.S. in Civil Engineering from [Santa Clara University](https://www.scu.edu/), where he conducted research on [low-tech coconut shell activated charcoal production](http://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1002&context=ceng). Mikell then earned his M.S. from Colorado State University, studying the [calibration of hydrologic models applied to the Sahelian region of Africa](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iLFWap0AAAAJ&citation_for_view=iLFWap0AAAAJ:u-x6o8ySG0sC). After teaching and working in the engineering private sector industry for several years, Mikell has returned to academia to pursue a Ph.D. Now funded by a NASA graduate fellowship (Future Investigators in NASA Earth and Space Science and Technology, or [FINESST](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7b87947100-56AE-C4DC-C511-0349862D658A%7d&path=&method=init)), Mikell is investigating climate change impacts on the Galápagos Islands upwelling ecosystem using satellite observations and a high-resolution global model.
