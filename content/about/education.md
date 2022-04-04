@@ -9,8 +9,11 @@ photos:
 
 
 degrees:
-    This is an example University: 
-        Some degree I revieved: 2023
-        A different degree I recieved: 2023
+    Santa Clara University: 
+        B.S. Civil Engineering: 2011
+    Colorado State University:
+        M.S. Civil and Environmental Engineering: 2014
+    University of Colorado Boulder:
+        Ph.D. in Atmospheric and Oceanic Sciences: Expected 2025
 ---
 
